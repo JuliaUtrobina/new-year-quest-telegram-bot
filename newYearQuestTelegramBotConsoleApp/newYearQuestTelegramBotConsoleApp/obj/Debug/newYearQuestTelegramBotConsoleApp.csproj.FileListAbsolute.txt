@@ -1,0 +1,12 @@
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\newYearQuestTelegramBotConsoleApp.exe.config
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\newYearQuestTelegramBotConsoleApp.exe
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\newYearQuestTelegramBotConsoleApp.pdb
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\log4net.dll
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\Newtonsoft.Json.dll
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\Telegram.Bot.dll
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\log4net.xml
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\Newtonsoft.Json.xml
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\bin\Debug\Telegram.Bot.xml
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\obj\Debug\newYearQuestTelegramBotConsoleApp.exe
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\obj\Debug\newYearQuestTelegramBotConsoleApp.pdb
+E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\obj\Debug\newYearQuestTelegramBotConsoleApp.csprojResolveAssemblyReference.cache

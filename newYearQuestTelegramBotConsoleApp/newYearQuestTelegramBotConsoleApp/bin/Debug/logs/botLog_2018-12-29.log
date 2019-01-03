@@ -1,0 +1,69 @@
+﻿INFO  2018-12-29 19:28:30 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 19:28:44 [MoveNext] - Message received from: Julia Utrobina text is /start
+INFO  2018-12-29 19:31:49 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 19:59:49 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 19:59:49 [MoveNext] - Message received from: Julia Utrobina text is /start
+INFO  2018-12-29 20:01:04 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:01:15 [MoveNext] - Message received from: Julia Utrobina text is Хмм
+INFO  2018-12-29 20:02:08 [MoveNext] - Message received from: Julia Utrobina text is Тест
+INFO  2018-12-29 20:03:38 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:03:44 [MoveNext] - Message received from: Julia Utrobina text is hg
+INFO  2018-12-29 20:03:53 [MoveNext] - Message received from: Julia Utrobina text is hh
+INFO  2018-12-29 20:25:34 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:25:34 [MoveNext] - Message received from: Julia Utrobina text is hh
+INFO  2018-12-29 20:25:44 [MoveNext] - Message received from: Julia Utrobina text is jhbj
+INFO  2018-12-29 20:25:53 [MoveNext] - Message received from: Julia Utrobina text is ТЕлеФон
+INFO  2018-12-29 20:26:27 [MoveNext] - Message received from: Julia Utrobina text is Santa
+INFO  2018-12-29 20:30:18 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:30:31 [MoveNext] - Message received from: Julia Utrobina text is h
+INFO  2018-12-29 20:31:52 [MoveNext] - Message received from: Julia Utrobina text is Телефон
+INFO  2018-12-29 20:31:58 [MoveNext] - Message received from: Julia Utrobina text is Santa
+INFO  2018-12-29 20:32:25 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:32:28 [MoveNext] - Message received from: Julia Utrobina text is 1231
+INFO  2018-12-29 20:32:34 [MoveNext] - Message received from: Julia Utrobina text is Телефон
+INFO  2018-12-29 20:32:37 [MoveNext] - Message received from: Julia Utrobina text is Santa
+INFO  2018-12-29 20:32:54 [MoveNext] - Message received from: Julia Utrobina text is 123123
+INFO  2018-12-29 20:35:00 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:38:24 [Main] - Started bot: Yorick_The_Elf_Bot
+ERROR 2018-12-29 20:38:29 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 248
+ERROR 2018-12-29 20:38:29 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 248
+ERROR 2018-12-29 20:38:29 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 248
+ERROR 2018-12-29 20:38:29 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 248
+ERROR 2018-12-29 20:38:29 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 248
+INFO  2018-12-29 20:40:54 [Main] - Started bot: Yorick_The_Elf_Bot
+ERROR 2018-12-29 20:41:21 [MoveNext] - Error in BotOnMessageReceived
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at newYearQuestTelegramBotConsoleApp.Program.<BotOnMessageReceived>d__6.MoveNext() in E:\_ASP PROJECTS\new-year-quest-telegram-bot\newYearQuestTelegramBotConsoleApp\newYearQuestTelegramBotConsoleApp\Program.cs:line 250
+INFO  2018-12-29 20:41:57 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:43:45 [Main] - Started bot: Yorick_The_Elf_Bot
+INFO  2018-12-29 20:43:58 [MoveNext] - Message received from: Julia Utrobina text is Hgg
+INFO  2018-12-29 20:44:08 [MoveNext] - Message received from: Julia Utrobina text is Телефон
+INFO  2018-12-29 20:44:28 [MoveNext] - Message received from: Julia Utrobina text is Santa
+INFO  2018-12-29 20:44:33 [MoveNext] - Message received from: Julia Utrobina text is 123123
+INFO  2018-12-29 20:45:04 [MoveNext] - Message received from: Julia Utrobina text is /start
+INFO  2018-12-29 20:45:38 [MoveNext] - Message received from: Julia Utrobina text is Конфета
+INFO  2018-12-29 20:45:46 [MoveNext] - Message received from: Julia Utrobina text is Тролль
+INFO  2018-12-29 20:46:05 [MoveNext] - Message received from: Julia Utrobina text is Сникерс
+INFO  2018-12-29 20:46:09 [MoveNext] - Message received from: Julia Utrobina text is Телефон
+INFO  2018-12-29 20:46:42 [MoveNext] - Message received from: Julia Utrobina text is Санта
+INFO  2018-12-29 20:46:59 [MoveNext] - Message received from: Julia Utrobina text is Тролль
+INFO  2018-12-29 20:47:14 [MoveNext] - Message received from: Julia Utrobina text is Santa
+INFO  2018-12-29 20:47:35 [MoveNext] - Message received from: Julia Utrobina text is 12312376
+INFO  2018-12-29 20:47:40 [MoveNext] - Message received from: Julia Utrobina text is 1231234
+INFO  2018-12-29 20:47:44 [MoveNext] - Message received from: Julia Utrobina text is V
+INFO  2018-12-29 20:47:53 [MoveNext] - Message received from: Julia Utrobina text is Fyi
+INFO  2018-12-29 20:48:01 [MoveNext] - Message received from: Julia Utrobina text is ''
+INFO  2018-12-29 20:48:04 [MoveNext] - Message received from: Julia Utrobina text is ""
+INFO  2018-12-29 20:48:07 [MoveNext] - Message received from: Julia Utrobina text is 123123
+INFO  2018-12-29 20:48:49 [MoveNext] - Message received from: Julia Utrobina text is Ruffini
+INFO  2018-12-29 20:48:59 [MoveNext] - Message received from: Julia Utrobina text is Chi
